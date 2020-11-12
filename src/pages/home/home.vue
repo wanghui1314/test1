@@ -1,6 +1,6 @@
 <template>
 <div>
-    home
+    home 这是home页面
 </div>
 </template>
 <script>
